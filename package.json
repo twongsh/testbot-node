@@ -1,0 +1,23 @@
+{
+  "name": "testbot-node",
+  "version": "1.0.0",
+  "description": "Testbot",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/twongsh/testbot-node.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/twongsh/testbot-node/issues"
+  },
+  "homepage": "https://github.com/twongsh/testbot-node#readme",
+  "dependencies": {
+    "botbuilder": "^3.8.0",
+    "restify": "^4.3.0"
+  }
+}
